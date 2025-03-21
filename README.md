@@ -29,6 +29,8 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 📌 [LinkedIn](https://www.linkedin.com/in/kartik-chhonkar-307209262/)
 Let’s connect, collaborate, and build amazing projects! 🚀
 <br>
+![snake gif](https://github.com/Kartikchhonkar007/Kartikchhonkar007/blob/output/snake.svg)
+
 <br>
 ### ✍️ Quote For The Day
 
