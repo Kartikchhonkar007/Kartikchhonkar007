@@ -32,6 +32,6 @@ Let’s connect, collaborate, and build amazing projects! 🚀
 ![snake gif](https://github.com/Kartikchhonkar007/Kartikchhonkar007/blob/output/snake.svg)
 
 <br>
-### ✍️ Quote For The Day
 
+## Quote For The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
