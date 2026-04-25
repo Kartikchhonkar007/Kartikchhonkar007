@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kartik Chhonkar!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Front+End+Developer🙎‍♂️;Coder+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Analyst🙎‍♂️;Coder+💻;)](https://git.io/typing-svg)
 [![](https://visitcount.itsvg.in/api?id=Kartikchhonkar007&icon=0&color=0)](https://visitcount.itsvg.in)   
 I’m passionate about new technologies, problem-solving, and building innovative projects. With a strong foundation in object-oriented programming (OOP) and web technologies, I love exploring new frameworks and contributing to open-source projects.
 
