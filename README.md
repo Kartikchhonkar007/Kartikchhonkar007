@@ -8,6 +8,7 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 
 ✅ Languages: Python , MySQL  
 ✅ Concepts: Object-Oriented Programming (OOP) , Problem Solving
+
 ✅ Tools: MS Office Power BI , Excel , Mysql
 
 ## 💡 Interests
