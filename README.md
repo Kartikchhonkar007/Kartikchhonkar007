@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Analyst🙎‍♂️;Coder+💻;)](https://git.io/typing-svg)
 [![](https://visitcount.itsvg.in/api?id=Kartikchhonkar007&icon=0&color=0)](https://visitcount.itsvg.in)   
-Motivated and detail-oriented Data Analyst fresher, graduating in 2026 with hands-on experience in SQL,
+Motivated and detail-oriented Data Analyst fresher, graduating hands-on experience in SQL,
 Python, Excel, and Power BI. Passionate about transforming raw data into meaningful insights to support
 business decisions
 
