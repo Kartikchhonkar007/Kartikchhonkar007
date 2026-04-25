@@ -20,7 +20,9 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 ## 🌱 Currently Learning
 
 ➡️ Big Data 
+
 ➡️ Machine Learning
+
 ➡️ Database Management                                                                                             
 
 
