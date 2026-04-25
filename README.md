@@ -7,7 +7,7 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 ## 🔧 Tech Stack & Skills
 
 ✅ Languages: Python , MySQL  
-✅ Concepts: Object-Oriented Programming (OOP) , Problem Solving
+✅ Concepts: Object-Oriented Programming (OOP) , Problem Solving 
 ✅ Tools: MS Office Power BI , Excel , Mysql
 
 ## 💡 Interests
