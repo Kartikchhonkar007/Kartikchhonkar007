@@ -6,23 +6,21 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 
 ## 🔧 Tech Stack & Skills
 
-✅ Languages: Python, Java, C++, MySQL  
-✅ Web Development: HTML, CSS, JavaScript  
-✅ Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)  
-✅ Tools: MS Office, GitHub, VS Code  
+✅ Languages: Python,MySQL  
+✅ Concepts: Object-Oriented Programming (OOP), Problem Solving
+✅ Tools: MS Office Power BI, Excel, Mysql
 
 ## 💡 Interests
-
-🔹 Full-Stack Development  
-🔹 Cybersecurity  
+ 
+🔹 Business Analysis
 🔹 Data Analysis  
 
 ## 🌱 Currently Learning
 
-➡️ Advanced JavaScript & Frontend Frameworks  
-➡️ Data Science  
+➡️ Big Data 
+➡️ Machine Learning
 ➡️ Database Management                                                                                             
-➡️ Machine Learning  
+
 
 ## 📫 Connect with Me
 
